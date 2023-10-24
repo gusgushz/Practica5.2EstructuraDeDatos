@@ -1,0 +1,16 @@
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5._2.Form1.resources
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\bin\Debug\net6.0-windows\Practica5.2.exe
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\bin\Debug\net6.0-windows\Practica5.2.deps.json
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\bin\Debug\net6.0-windows\Practica5.2.runtimeconfig.json
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\bin\Debug\net6.0-windows\Practica5.2.dll
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\bin\Debug\net6.0-windows\Practica5.2.pdb
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.dll
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\refint\Practica5.2.dll
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.pdb
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\Practica5.2.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Practica5.2\Practica5.2\obj\Debug\net6.0-windows\ref\Practica5.2.dll
